@@ -54,6 +54,3 @@ I risultati integrali dell'analisi sono suddivisi nei seguenti documenti Markdow
 | **McCabe Massimo** | 8 | 19 |
 
 L'analisi dimostra che l'assenza di vincoli architetturali spinge l'AI generativa a risolvere i problemi in modo locale, procedurale e altamente ridondante, generando un debito tecnico insostenibile nel lungo periodo. Il ruolo del Software Engineer si evolve quindi nella "progettazione di vincoli" per incanalare correttamente la capacità computazionale degli LLM.
-
----
-*Progetto di ricerca per studio accademico comparativo sull'Ingegneria del Software.*
